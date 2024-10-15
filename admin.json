@@ -1,15 +1,15 @@
 {
-  "prefix": "!",
+  "prefix": "@",
   "adminUIDs": [
-   "your uid"
+   "100037673498563"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "100037673498563",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
+  "botName": "S3NP41 B0T",
+  "ownerName": "PATOTOYA",
   "facebookLink": "fb link",
   "resend": false,
   "notilogs": true,
@@ -18,8 +18,8 @@
   "restartTime": 50,
   "FCA": "hut-chat-api",
   "loginpanel": {
-    "user": "your username in dashboard",
-    "password": "password your dashboard",
+    "user": "admin123",
+    "password": "654321",
     "passcode": "12345"
   }
 }
